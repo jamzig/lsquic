@@ -5,8 +5,8 @@
     .fingerprint = 0x91bb79d30d8691a1,
     .dependencies = .{
         .boringssl = .{
-            .url = "git+https://github.com/Syndica/boringssl-zig#b72504316d62ba21e51923653431f0a5ea9efb3f",
-            .hash = "boringssl-0.1.0-VtJeWRTKrQiPUVM3X15_cXLZnqGIhTN2vpYDiVkdcyv3",
+            .url = "git+https://github.com/jamzig/boringssl#eb4be3d851c7fc9f44561e5c00faef8a754621ee",
+            .hash = "boringssl-0.1.0-VtJeWVHKrQjVEDV3rGQ4U2MwuYzB4fx6YTiPfOY-yNER",
         },
         .zlib = .{
             .url = "git+https://github.com/allyourcodebase/zlib#6c72830882690c1eb2567a537525c3f432c1da50",
